@@ -1,5 +1,5 @@
 # Italian Magento2 Language Pack
-This is a  Magento2 Language Pack
+Italian (italiano) Magento2 Language Pack (it_IT) From Magma Consulting
 
 ## Install module:
 
