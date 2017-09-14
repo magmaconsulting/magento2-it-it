@@ -1,5 +1,5 @@
 {
-    "name": "magma/it_it",
+    "name": "magma/magento2-it-it",
     "description": "Italian (italiano) Magento2 Language Pack (it_IT) From Magma Consulting",
     "license": [
         "MIT"
@@ -13,7 +13,7 @@
         "magento/framework": "~100.0"
     },
     "type": "magento2-language",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "autoload": {
         "files": [
             "registration.php"
