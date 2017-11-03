@@ -2049,7 +2049,7 @@ Save,Salva,module,Magento_Customer
 "If you have an account, sign in with your email address.","Se hai un account, accedi con il tuo indirizzo email.",module,Magento_Customer
 "Forgot Your Password?","Hai dimenticato la password?",module,Magento_Customer
 "Subscription option","Opzioni di iscrizione",module,Magento_Customer
-"","Abbonamento generale",module,Magento_Customer
+"General Subscription","Abbonamento generale",module,Magento_Customer
 "Sign Up for Newsletter","Iscriviti alla Newsletter",module,Magento_Customer
 "Address Information","Informazioni indirizzo",module,Magento_Customer
 "Sign-in Information","Informazioni di accesso",module,Magento_Customer
