@@ -7675,3 +7675,8 @@ Delete,Elimina,module,Magento_Wishlist
 "Account Dashboard","Dashboard Account",theme,frontend/Magento/luma
 "Account Information","Informazioni Account",theme,frontend/Magento/luma
 "Address Book",Rubrica,theme,frontend/Magento/luma
+"Checkout as a new customer","Registrati per acquistare"
+"Checkout using your account","Accedi per completare l'acquisto"
+"Item in Cart","articolo nel carrello"
+"Items in Cart","articoli nel carrello"
+"View and Edit Cart","Vai al carrello"
